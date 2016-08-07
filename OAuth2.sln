@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2.Core", "OAuth2.Core\OAuth2.Core.csproj", "{617D23D5-A6D4-45FE-AD55-BAA980FBE756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuth2.Providers", "OAuth2.Providers\OAuth2.Providers.csproj", "{7425B6C6-61DF-4C55-9688-AD365A8415BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617D23D5-A6D4-45FE-AD55-BAA980FBE756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617D23D5-A6D4-45FE-AD55-BAA980FBE756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617D23D5-A6D4-45FE-AD55-BAA980FBE756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617D23D5-A6D4-45FE-AD55-BAA980FBE756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7425B6C6-61DF-4C55-9688-AD365A8415BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7425B6C6-61DF-4C55-9688-AD365A8415BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7425B6C6-61DF-4C55-9688-AD365A8415BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7425B6C6-61DF-4C55-9688-AD365A8415BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

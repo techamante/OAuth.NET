@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OAuth2.Providers
 {
-    public class Class1
+    public static class OAuth2ProviderType
     {
+        public const string Facebook = "Facebook";
     }
 }

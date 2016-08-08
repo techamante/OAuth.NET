@@ -13,6 +13,7 @@ namespace OAuth2.Providers
     {
         public FacebookOAuth2Provider(IRequestFactory requestFactory, OAuth2ProviderDefinition oAuth2ProviderDefinition) : base(requestFactory, oAuth2ProviderDefinition)
         {
+        
         }
 
         public override OAuth2Token GetRefreshToken(OAuth2Response oAuth2Response)
